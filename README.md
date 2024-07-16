@@ -2,6 +2,8 @@
 
 ¡Bienvenido al emocionante desafío de programación LiterAlura! En este proyecto, construiremos un catálogo de libros interactivo que te permitirá explorar y descubrir obras literarias. Aprenderemos a realizar solicitudes a una API de libros, manipular datos en formato JSON, almacenar información en una base de datos y, finalmente, presentar los resultados de manera amigable para los usuarios.
 
+![Badge Literalura](badgeliteralura.png)
+
 ## Objetivo
 
 Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios. Aquí están los aspectos clave:
