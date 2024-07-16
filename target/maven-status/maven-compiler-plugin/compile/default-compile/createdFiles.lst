@@ -1,0 +1,9 @@
+com\example\libreria\model\BooksResponse.class
+com\example\libreria\service\BookService.class
+com\example\libreria\service\StatisticsService.class
+com\example\libreria\service\DatabaseService.class
+com\example\libreria\service\AuthorService.class
+com\example\libreria\LibreriaApplication.class
+com\example\libreria\config\DatabaseConfig.class
+com\example\libreria\model\Book.class
+com\example\libreria\model\Author.class
